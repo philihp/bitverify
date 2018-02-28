@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,KACE,aACA,8BACA,WAAa","file":"static/css/main.3dc80146.css","sourcesContent":[".App {\n  display: grid;\n  grid-template-columns: 1fr 3fr;\n  width: 300px;\n}\n\n\n\n// WEBPACK FOOTER //\n// ./src/App.css"],"sourceRoot":""}
