@@ -1,5 +1,6 @@
 {
   "name": "bitverify",
+  "homepage": "http://philihp.github.io/bitverify/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -15,7 +16,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
-    "deploy": "gh-pages --dist build --message \"Automatic Deploy [ci skip]\""
+    "deploy": "npm run build && gh-pages --dist build --message \"Automatic Deploy [ci skip]\""
   },
   "devDependencies": {
     "husky": "^0.15.0-rc.8",
