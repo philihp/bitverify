@@ -18,6 +18,13 @@ signature: `ICN7nyMxLjjh6hcoDjv7HSeN2O3RlPoXF9JeoKLQkJ9WQdpKOOnNdvlWuDNCCdl8BZv6
 * Highlight a field if it is malformed
 * Save the data in GET params of the URL, so it's easier to share a link.
 
+## Deploy
+
+```
+$ npm run build
+$ npm run deploy
+```
+
 ## Contributions
 
 PRs welcome! I literally made this with the arbitrary restriction that I would only spend
